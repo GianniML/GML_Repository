@@ -11,3 +11,10 @@ Female,2800,31,New York,87,Ford,Bachelor
 Male,2900,46,New York,70,GM,Master
 Female,2780,36,Washington,57,BMW,No
 Male,2550,48,New York,64,GM,Master
+Female,,31,New York,87,Ford,Bachelor
+Male,2900,,New York,70,GM,Master
+Female,2780,36,,57,BMW,No
+Male,2550,48,New York,,GM,Master
+Male,2550,48,New York,64,,Master
+Male,2550,48,New York,64,GM,
+,2550,48,New York,64,GM,Master
